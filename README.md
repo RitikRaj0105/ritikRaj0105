@@ -1,4 +1,4 @@
-![wc1714380](https://github.com/RitikRaj0105/RitikRaj0105/assets/128048540/d8ef750e-d0af-4fdc-9caf-83e50f450021)
+
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
