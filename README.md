@@ -2,7 +2,8 @@
 
 <img src=https://wallpaperset.com/w/full/b/7/9/60090.jpg>
 
-# <p align="center">👋Hi there, I'm [Ritik Raj] (https://www.linkedin.com/in/ritik-raj-721112224/) </p>
+# <p align="center">👋Hi there, I'm [Ritik Raj]
+(https://www.linkedin.com/in/ritik-raj-721112224/) </p>
 
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
