@@ -1,10 +1,11 @@
 
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
+
 ![](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.gif)
 
 <img src=https://wallpaperset.com/w/full/b/7/9/60090.jpg>
 
-# <p align="center">👋Hi there, I'm [Ritik Raj] (https://www.linkedin.com/in/ritik-raj-721112224/)</p>
+# <p align="center">👋Hi there, I'm [Ritik Raj](https://www.linkedin.com/in/ritik-raj-721112224) </p>
 
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
@@ -112,7 +113,9 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunaraj" alt="Ritik Raj github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tunaraj&show_icons=true&theme=radical" alt="Ritik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunaraj&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj0105" alt="Ritik Raj github stats" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikraj0105&show_icons=true&theme=radical" alt="Ritik's github stats" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj0105&layout=compact">
 
 
 
