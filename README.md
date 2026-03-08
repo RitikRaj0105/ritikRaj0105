@@ -63,6 +63,9 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
+  - 📍 ** IIT Patna **-----------------------**< 2025-2027 >**\
+ 📖**M.Tech -< AI-DS >**
+ 
  - 📍 **Uttarakhand Technical University**-----------------------**< 2022-2025 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
@@ -77,20 +80,14 @@ technologies to meet future requirements.</br>
    
  ## Experience
  -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
+ 📆 Feb,2022 - march2022\
 📍 **Youth India Foundation** - New Delhi, India
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
+ -  👨‍💻 **AI-DS **----------------------< Apprenticeship >\
+   📆 nov,2024 - may2025\
+   📍 **Central Building Research Institute** - roorkee, India
    
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
    
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
 
    </details>
    
