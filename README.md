@@ -93,59 +93,111 @@ technologies to meet future requirements.</br>
    
 ### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
-<p align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px;">
+<p align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:14px; padding:10px; background-color:#ffffff;">
 
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=android" height="45"/>
+</a>
 
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+</a>
 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+</a>
 
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+</a>
 
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
+</a>
 
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
 
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
 
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+</a>
 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</a>
 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</a>
 
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+</a>
 
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+</a>
 
-<a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ai" height="45"/>
+</a>
 
-<a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain" width="40" height="40"/></a>
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/langchain/000000" height="45"/>
+</a>
 
-<a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://cdn.simpleicons.org/huggingface/000000" height="45"/>
+</a>
 
-<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>
 
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>
 
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+</a>
 
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlecloud" width="40" height="40"/></a>
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+</a>
 
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/microsoftazure" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=azure" height="45"/>
+</a>
 
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+</a>
 
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+</a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/powerbi" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/powerbi/000000" height="45"/>
+</a>
 
-<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/tableau/000000" height="45"/>
+</a>
 
-<a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/apachespark/000000" height="45"/>
+</a>
 
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+</a>
 
 </p>
 
