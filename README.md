@@ -4,20 +4,32 @@
 ![](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.gif)
 
 <img src=https://wallpaperset.com/w/full/b/7/9/60090.jpg>
+<div align="center">
 
-# <p align="center">👋Hey there, I'm [Ritik Raj](https://www.linkedin.com/in/ritik-raj-721112224) </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:8855ff,100:ff00cc&height=220&section=header&text=RITIK%20RAJ&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Backend%20Dev%20%7C%20AI%2FML%20Engineer%20%7C%20Designer&descSize=18&descAlignY=58&animation=fadeIn)
 
- <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+</div>
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=500&lines=M.Tech+AI-DS+%40+IIT+Patna+%F0%9F%9A%80;Backend+Developer+%7C+Open+Source;Deep+Learning+%7C+Web3+%7C+Cloud;Always+Learning+%7C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
-- 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering]
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikRaj0105&label=Profile%20views&color=32CD32&style=flat" alt="Ritik Raj" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RitikRaj0105&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/ritikraj0105?label=FOLLOWERS&style=for-the-badge&color=8855ff&labelColor=0d1117)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-raj-771112224)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rraj824233@gmail.com)
+
+</div>
+
 
 <!--### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
