@@ -74,20 +74,16 @@ technologies to meet future requirements.</br>
 <details>
    <summary>📃 Resume</summary>
 
- ## Education
-  - 📍 ** IIT Patna **-----------------------**< 2025-2027 >**\
- 📖**M.Tech -< AI-DS >**
- 
- - 📍 **Uttarakhand Technical University**-----------------------**< 2022-2025 >**\
- 📖**Bachelor's of technology-< Information Technology >**
- 
- - 📍 **uttarakhand Board of Technical Education **------------------**< 2019-2022 >**\
-   📖**Diploma-< mechanical Engineering >**
- 
- - 📍 **utkarmit high school,, Gaya**------------------**< 2017-2019 >**\
-   📖**Secondary Schooling**
- 
-   
+ <div align="center">
+
+| &nbsp; | Institute | Degree | Period |
+|:---:|:---|:---|:---:|
+| 🔵 | **IIT Patna** | M.Tech — Artificial Intelligence & Data Science | `2025 → 2027` |
+| 🟣 | **Uttarakhand Technical University** | B.Tech — Information Technology | `2022 → 2025` |
+| 🟡 | **Uttarakhand Board of Technical Education** | Diploma — Mechanical Engineering | `2019 → 2022` |
+| ⚪ | **Utkarmit High School, Gaya** | Secondary Schooling | `2017 → 2019` |
+
+</div>
    
    
  ## Experience
@@ -103,139 +99,111 @@ technologies to meet future requirements.</br>
 
    </details>
    
-### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
-   
-<p align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:14px; padding:10px; background-color:#ffffff;">
+## `◈   TECH.ARSENAL`
 
-<a href="https://developer.android.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=android" height="45"/>
-</a>
+<div align="center">
 
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
-</a>
+### 🤖 &nbsp; AI &amp; Machine Learning
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-</a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-</a>
+### 🌐 &nbsp; Web &amp; Backend
 
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-</a>
+### ☁️ &nbsp; Cloud &amp; DevOps
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-</a>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-</a>
+### 📊 &nbsp; Data &amp; Visualization
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-</a>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-</a>
+</div>
 
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-</a>
+---
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-</a>
+## `◈   RESEARCH.NODES`
 
-<a href="https://openai.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=ai" height="45"/>
-</a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ◉  Outlying Aspect Mining                                   ║
+║  ◉  Classification                                           ║
+║  ◉  Clustering                                               ║
+║  ◉  Anomaly Detection                                        ║
+║  ◉  Similarity Measure                                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+## `◈  GITHUB.TELEMETRY`
 
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/langchain/000000" height="45"/>
-</a>
+<div align="center">
 
-<a href="https://huggingface.co/" target="_blank">
-<img src="https://cdn.simpleicons.org/huggingface/000000" height="45"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritikraj0105&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff00cc&text_color=7ce8ff&border_radius=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj0105&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff33&ring=ff00cc&fire=00d4ff&currStreakLabel=00d4ff&border_radius=8" />
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-</a>
+<br/><br/>
 
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-</a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj0105&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7ce8ff&border_radius=8" />
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>
-</a>
+<br/><br/>
 
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikraj0105&bg_color=0d1117&color=00d4ff&line=ff00cc&point=ffffff&area=true&area_color=8855ff&hide_border=true&border_radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" height="45"/>
-</a>
+</div>
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-</a>
+---
 
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
-</a>
+## `◈ ACHIEVEMENT.TROPHIES`
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/powerbi/000000" height="45"/>
-</a>
+<div align="center">
 
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tableau/000000" height="45"/>
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ritikraj0105&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://spark.apache.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/apachespark/000000" height="45"/>
-</a>
+</div>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-</a>
+---
 
-</p>
+## `◈ CONNECT`
 
+<div align="center">
 
-   ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-raj-771112224)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rraj824233@gmail.com)
 
-<p align = "center">
+</div>
 
-<!--
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />] (https://www.kaggle.com/akankushjnvku/account)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">] <!--(https://github.com/akankushjnvku)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] <!--(https://twitter.com) -->
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />] <!--(https://medium.com/@ak.ankush2000)-->
- -->
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ritik-raj-771112224)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
-</p>
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj0105" alt="Ritik Raj github stats" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikraj0105&show_icons=true&theme=radical" alt="Ritik's github stats" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj0105&layout=compact">
+<div align="center">
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,40:8855ff,100:00d4ff&height=120&section=footer&animation=fadeIn)
 
+**`── RITIK RAJ · IIT PATNA · SYSTEM_ONLINE ──`**
 
-
-<!--
+</div>
 
 
 Here are some ideas to get you started:
