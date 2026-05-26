@@ -79,7 +79,7 @@ technologies to meet future requirements.</br>
 | &nbsp; | Institute | Degree | Period |
 |:---:|:---|:---|:---:|
 | 🔵 | **IIT Patna** | M.Tech — Artificial Intelligence & Data Science | `2025 → 2027` |
-| 🟣 | **Uttarakhand Technical University** | B.Tech — Information Technology | `2022 → 2025` |
+| 🟣 | **Uttarakhand Technical University** | B.Tech — CSE | `2022 → 2025` |
 | 🟡 | **Uttarakhand Board of Technical Education** | Diploma — Mechanical Engineering | `2019 → 2022` |
 | ⚪ | **Utkarmit High School, Gaya** | Secondary Schooling | `2017 → 2019` |
 
