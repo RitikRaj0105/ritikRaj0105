@@ -1,104 +1,93 @@
-
-<!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
-
-![](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.gif)
-
 <img src=https://wallpaperset.com/w/full/b/7/9/60090.jpg>
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:8855ff,100:ff00cc&height=220&section=header&text=RITIK%20RAJ&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Backend%20Dev%20%7C%20AI%2FML%20Engineer%20%7C%20Designer&descSize=18&descAlignY=58&animation=fadeIn)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=520&lines=M.Tech+AI-DS+%40+IIT+Patna+%F0%9F%9A%80;Backend+Developer+%7C+Open+Source;Deep+Learning+%7C+Web3+%7C+Cloud;Always+Learning+%7C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=500&lines=M.Tech+AI-DS+%40+IIT+Patna+%F0%9F%9A%80;Backend+Developer+%7C+Open+Source;Deep+Learning+%7C+Web3+%7C+Cloud;Always+Learning+%7C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RitikRaj0105&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ritikraj0105&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/ritikraj0105?label=FOLLOWERS&style=for-the-badge&color=8855ff&labelColor=0d1117)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-raj-771112224)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rraj824233@gmail.com)
 
 </div>
 
+---
 
-<!--### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
--->
+## `◈   WHOAMI`
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **rraj824233@gamil.com 
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
 
+- 🎓 Pursuing **M.Tech in Artificial Intelligence & Data Science** @ **IIT Patna**
+- 🌱 Currently deep into **Deep Learning** — and simultaneously exploring **Web3**
+- 💬 Ask me about **Web Development**, **Open Source Contributions** & **Internships**
+- 👯 Looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: I love **designing** and **travelling** to explore new places
+- ❤️ Building a community to train the next generation on cutting-edge technologies
+- 📫 Reach me at: **rraj824233@gmail.com**
 
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
+<br clear="right"/>
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+---
 
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
+## `◈   RESEARCH.FOCUS`
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ◉  Outlying Aspect Mining                                    ║
+║  ◉  Classification                                            ║
+║  ◉  Clustering                                                ║
+║  ◉  Anomaly Detection                                         ║
+║  ◉  Similarity Measure                                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+**I'm open to:**
+- Collaboration on **Machine Learning / Data Mining** projects (development or research)
+- **Research internships**
+- Serving as a **reviewer / PC member** for ML & Data Mining journals or conferences
+
+---
+
+## `◈   RESUME`
 
 <details>
-   <summary>📃 Resume</summary>
+<summary>📃 &nbsp;<b>Education & Experience</b></summary>
 
- <div align="center">
+<br/>
+
+<div align="center">
+
+### 🎓 Education
 
 | &nbsp; | Institute | Degree | Period |
 |:---:|:---|:---|:---:|
 | 🔵 | **IIT Patna** | M.Tech — Artificial Intelligence & Data Science | `2025 → 2027` |
-| 🟣 | **Uttarakhand Technical University** | B.Tech — CSE | `2022 → 2025` |
+| 🟣 | **Uttarakhand Technical University** | B.Tech — Computer Science & Engineering | `2022 → 2025` |
 | 🟡 | **Uttarakhand Board of Technical Education** | Diploma — Mechanical Engineering | `2019 → 2022` |
 | ⚪ | **Utkarmit High School, Gaya** | Secondary Schooling | `2017 → 2019` |
 
 </div>
-   
-   
- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - march2022\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **AI-DS **----------------------< Apprenticeship >\
-   📆 nov,2024 - may2025\
-   📍 **Central Building Research Institute** - roorkee, India
-   
-   
 
-   </details>
-   
+### 💼 Experience
+
+**👨‍💻 AI-DS Apprentice** &nbsp;·&nbsp; *Central Building Research Institute (CBRI)* — Roorkee, India
+📆 Nov 2024 – May 2025
+
+**👨‍💻 Back-end Developer** &nbsp;·&nbsp; *Youth India Foundation* — New Delhi, India &nbsp;·&nbsp; `Internship`
+📆 Feb 2022 – Mar 2022
+
+</details>
+
+---
+
 ## `◈   TECH.ARSENAL`
 
 <div align="center">
@@ -145,18 +134,7 @@ technologies to meet future requirements.</br>
 
 ---
 
-## `◈   RESEARCH.NODES`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ◉  Outlying Aspect Mining                                   ║
-║  ◉  Classification                                           ║
-║  ◉  Clustering                                               ║
-║  ◉  Anomaly Detection                                        ║
-║  ◉  Similarity Measure                                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-## `◈  GITHUB.TELEMETRY`
+## `◈   GITHUB.TELEMETRY`
 
 <div align="center">
 
@@ -175,7 +153,7 @@ technologies to meet future requirements.</br>
 
 ---
 
-## `◈ ACHIEVEMENT.TROPHIES`
+## `◈   ACHIEVEMENT.TROPHIES`
 
 <div align="center">
 
@@ -185,17 +163,17 @@ technologies to meet future requirements.</br>
 
 ---
 
-## `◈ CONNECT`
+## `◈   CONNECT`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-raj-771112224)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_?igshid=ZGUzMzM3NWJiOQ==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r_raj.ritik_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rraj824233@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -204,4 +182,3 @@ technologies to meet future requirements.</br>
 **`── RITIK RAJ · IIT PATNA · SYSTEM_ONLINE ──`**
 
 </div>
-
