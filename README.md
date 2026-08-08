@@ -21,7 +21,7 @@
 
 ---
 
-## `◈   WHOAMI`
+## `◈ WHO AM I`
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
 
