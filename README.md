@@ -56,7 +56,7 @@
 
 ---
 
-## `◈   RESUME`
+## `◈ RESUME`
 
 [![View Resume](https://img.shields.io/badge/📄_VIEW_RESUME-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://github.com/RitikRaj0105/RitikRaj0105/blob/main/assets/ritik_raj.pdf)
 &nbsp;
@@ -85,7 +85,7 @@
 
 ---
 
-## `◈   TECH.ARSENAL`
+## `◈  TECH.ARSENAL`
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 ---
 
-## `◈   GITHUB.TELEMETRY`
+## `◈ GITHUB.TELEMETRY`
 
 <div align="center">
 
