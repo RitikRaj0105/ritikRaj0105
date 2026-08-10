@@ -150,7 +150,7 @@
 
 ---
 
-## `◈   ACHIEVEMENT.TROPHIES`
+## `◈  ACHIEVEMENT.TROPHIES`
 
 <div align="center">
 
@@ -160,7 +160,7 @@
 
 ---
 
-## `◈   CONNECT`
+## `◈ CONNECT`
 
 <div align="center">
 
