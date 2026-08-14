@@ -176,6 +176,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,40:8855ff,100:00d4ff&height=120&section=footer&animation=fadeIn)
 
-**`── RITIK RAJ · IIT PATNA · SYSTEM_ONLINE ──`**
+**`── RITIK RAJ · IIT PATNA ──`**
 
 </div>
